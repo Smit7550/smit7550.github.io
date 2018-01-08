@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"progress-bar-striped"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"D",
+				"DIV\tTag"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"ico",
+				"icon"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"B",
+				"background-color"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"fr",
+				"frame\tTag"
+			],
+			[
+				"fra",
+				"frameset\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"hre",
+				"href\tAttr"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/My Web Sites/Smit/index.html",
+		"/C/My Web Sites/Smit/themegrids.com/themes/ivor/theme/particles/css/custom.css",
+		"/C/My Web Sites/Smit/themegrids.com/themes/ivor/theme/particles/css/bootstrap.min.css",
+		"/C/My Web Sites/Smit/themegrids.com/themes/ivor/theme/particles/css/animate.css",
+		"/C/My Web Sites/Smit/themegrids.com/themes/ivor/theme/particles/css/prettyPhoto.css",
+		"/C/My Web Sites/Smit/themegrids.com/themes/ivor/theme/particles/css/flickity.css",
+		"/C/My Web Sites 1/Smit1/index.html",
+		"/C/My Web Sites/Smit/themegrids.com/themes/ivor/theme/particles/index.html",
+		"/C/My Web Sites/index.html",
+		"/C/My Web Sites/Smit/themegrids.com/themes/ivor/theme/particles/images/prettyPhoto/dark_rounded/btnNext.html",
+		"/C/Users/SMIT/Desktop/Silverwing/BS/demo.html",
+		"/C/Users/SMIT/Desktop/ex.html",
+		"/C/Users/SMIT/Desktop/Silverwing/Form/Contact Form.css",
+		"/C/Users/SMIT/Desktop/Silverwing/Form/Contact Form.html",
+		"/C/Users/SMIT/Desktop/sujal/Contact Form.html",
+		"/C/Users/SMIT/Desktop/sujal/Contact Form.css",
+		"/C/Users/SMIT/Desktop/sujal/form.html",
+		"/C/Users/SMIT/Desktop/sujal/form.css",
+		"/C/Users/SMIT/Desktop/Silverwing/css/demo.html",
+		"/C/Users/SMIT/Desktop/Silverwing/css/custom.css",
+		"/C/Users/SMIT/Desktop/main.css",
+		"/C/Users/SMIT/Downloads/Contact Form.html",
+		"/C/Users/SMIT/Downloads/Contact Form.css",
+		"/C/Users/SMIT/Desktop/Silverwing/2.css",
+		"/C/Users/SMIT/Desktop/Silverwing/form.html",
+		"/C/Users/SMIT/Downloads/custom.css",
+		"/C/Users/SMIT/Desktop/Silverwing/demo.html",
+		"/C/Users/SMIT/Desktop/Silverwing/1.css",
+		"/C/Users/SMIT/Desktop/Silverwing/hw.html",
+		"/C/Users/SMIT/Desktop/Silverwing/Page 2.html",
+		"/C/Users/SMIT/Desktop/Silverwing/1.html",
+		"/C/Users/SMIT/Desktop/Silverwing/2.html",
+		"/H/ /Internship/CV.html",
+		"/C/Users/SMIT/Downloads/insertionsort.c",
+		"/C/Users/SMIT/Downloads/bubblesort.c",
+		"/C/Users/SMIT/Downloads/selectionsort.c",
+		"/C/Users/SMIT/Desktop/sor4.html",
+		"/C/Users/SMIT/Desktop/a.exe",
+		"/C/Users/SMIT/Desktop/sor2.html",
+		"/C/Users/SMIT/Desktop/sor1.html",
+		"/C/Users/SMIT/Desktop/sor3.html",
+		"/C/Users/SMIT/Desktop/SMIT.C",
+		"/C/Users/SMIT/Desktop/page3.html",
+		"/C/Users/SMIT/Desktop/page2.html",
+		"/C/Users/SMIT/Desktop/index2.html",
+		"/C/Users/SMIT/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<\n",
+			"\t\n",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
